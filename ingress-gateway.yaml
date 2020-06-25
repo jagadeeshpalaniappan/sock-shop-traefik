@@ -17,7 +17,7 @@ metadata:
   namespace: sock-shop
 spec:
   rules:
-  - host: scratch.kube.pro
+  - host: localhost
     http:
       paths:
       - path: /
